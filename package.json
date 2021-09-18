@@ -1,0 +1,14 @@
+{
+  "name": "simple_emmit_server",
+  "version": "1.0.0",
+  "description": "Emmits a random number every 10 seconds.",
+  "main": "app.js",
+  "dependencies": {
+    "ws": "^7.5.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Evangelos Asimkopoulos"
+}
